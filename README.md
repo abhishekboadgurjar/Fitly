@@ -1,4 +1,4 @@
-# Fitly - Full Stack Fitness Tracker App & Website 
+# Fitly - Full Stack Fitness Tracker App & Website
 
 Fitly is a full-stack fitness tracker application that helps users log, view, and manage their workouts. It consists of:
 - **Backend**: Node.js/Express REST API with MongoDB
